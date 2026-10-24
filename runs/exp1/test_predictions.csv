@@ -1,0 +1,3 @@
+graph,true_label,graph_head_prob,max_node_prob,nodes,trojan_nodes,first_trojan_rank,hit@1,hit@5,hit@10
+TRIT-TC/c2670_T000.v.pt,0,0.4967,0.2691,1537,0,,0,0,0
+TRIT-TC/c2670_T050.v.pt,1,0.4972,0.2692,1541,14,22,0,0,0
